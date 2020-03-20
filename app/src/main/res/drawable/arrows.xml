@@ -1,0 +1,24 @@
+<vector android:height="16dp"
+    android:viewportHeight="16"
+    android:viewportWidth="52"
+    android:width="52dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillAlpha="0"
+        android:fillColor="#CDDC39"
+        android:fillType="nonZero"
+        android:name="one"
+        android:pathData="M0,0v16l12,-8z" />
+    <path
+        android:fillAlpha="0"
+        android:fillColor="#CDDC39"
+        android:fillType="nonZero"
+        android:name="two"
+        android:pathData="M20,0v16l12,-8z" />
+    <path
+        android:fillAlpha="0"
+        android:fillColor="#CDDC39"
+        android:fillType="nonZero"
+        android:name="three"
+        android:pathData="M40,0v16l12,-8z" />
+</vector>
